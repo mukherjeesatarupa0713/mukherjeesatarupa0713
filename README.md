@@ -9,7 +9,7 @@ I'm a mechanical engineer who worked as a Deputy Manager in Bank of Maharashtra 
 | Project | Tools | Link |
 |---|---|---|
 | Asian Paints 3-Statement Model + DCF | Excel | [View →](https://github.com/mukherjeesatarupa0713/asian-paints-financial-model) |
-| Indian Banking CAMELS Analysis | SQL, MySQL | [View →](link) |
+| Indian Banking CAMELS Analysis | SQL, MySQL | [View →](https://github.com/mukherjeesatarupa0713/indian-banking-camels-sql-analysis) |
 | Nifty 50 Sector Dashboard | Power BI | [View →](link) |
 
 ## Skills
