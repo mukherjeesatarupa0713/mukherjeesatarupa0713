@@ -1,8 +1,8 @@
 # Hi, I'm [Satarupa Mukherjee] 👋
 
-## B.Tech → Deputy Manager at Bank of Maharashtra → Financial Analyst | Bengaluru 
+## B.Tech → Deputy Manager at Bank of Maharashtra → Business Analyst | Bengaluru 
 
-I'm a mechanical engineer who worked as a Deputy Manager in Bank of Maharashtra (a Public Sector Bank) and currently transitioning into financial analysis, building a portfolio of equity research and data projects. 
+I'm a mechanical engineer who worked as a Deputy Manager in Bank of Maharashtra (a Public Sector Bank) and currently transitioning into business analysis, building a portfolio of equity research and data projects. 
 
 ## Projects
 
